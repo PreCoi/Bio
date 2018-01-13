@@ -13,6 +13,8 @@
 * 11、将CB3放于干净的1.5ml离心管，加入50-100ul TE，放3min，12000rpm离心2min；
 * 12、重复11。
 
+------
+
 ## FFPE样本抽提
 所用试剂盒：GeneRead DNA FFPE Kit
 实验前准备：
@@ -23,11 +25,10 @@
 * 2、在通风橱中加入1ml二甲苯，充分振荡混匀，室温静置10min，离心1min，弃上清；
 * 3、加入1ml无水乙醇，充分振荡混匀，离心1min，弃上清，放置于烘箱中烘10-20min；
 * 4、配置反应液：
-     *   RNase-free water：55ul
-     *   Buffer FTB：25ul
-     *   Proteinase K：20ul
-     *   Total：100ul
-     
+     *  RNase-free water：55ul
+     *  Buffer FTB：25ul
+     *  Proteinase K：20ul
+     *  Total：100ul
 * 5、振荡离心，56℃金属浴孵育过夜；
 * 6、90℃金属浴孵育1h；
 * 7、取出离心；

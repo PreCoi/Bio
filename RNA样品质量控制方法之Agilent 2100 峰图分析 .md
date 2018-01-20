@@ -11,12 +11,15 @@
 ### b）样品本身5S较高，对样品评估造成影响，一般判定为风险样品；
 - 以上三点是对峰图进行分析的重要参考点。而对总RNA样品总体评估，还需要结合Qubit定量分析和琼脂糖凝胶电泳质量分析。所以判断总RNA样品是否合格，是需要多个实验结果综合评估的。
 小编为大家展示三张不同质量状态的Agilent 2100峰型图：
+
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwcEvpPqoU8giaROaNicBSGjxK67CsGW2wQTew6LDcUoRHroxKoJuvoKRZQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
 合格样品
+
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwcic3emQfGT4XufkMeodpQiaeFxbZ8krnJ68Tn66LZlywxBVmvk2l4tyibQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
 降解样品
+
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwc2L3R34Kw6frmBdhboibPZUPQiaxpicC5DtHEZwFkT3rjFeT7kAtTNvMPw/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
 严重降解样品

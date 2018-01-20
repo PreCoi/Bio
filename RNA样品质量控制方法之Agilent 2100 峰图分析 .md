@@ -14,15 +14,15 @@
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwcEvpPqoU8giaROaNicBSGjxK67CsGW2wQTew6LDcUoRHroxKoJuvoKRZQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
-**合格样品
+**合格样品**
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwcic3emQfGT4XufkMeodpQiaeFxbZ8krnJ68Tn66LZlywxBVmvk2l4tyibQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
-**降解样品
+**降解样品**
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUMt67WnllQh8CzfAdlTaFwc2L3R34Kw6frmBdhboibPZUPQiaxpicC5DtHEZwFkT3rjFeT7kAtTNvMPw/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
-**严重降解样品
+**严重降解样品**
 
 【选自公众号：allfrombionova】（一呼百诺）
 

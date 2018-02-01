@@ -1,1 +1,3 @@
 2017年12月5日Illumina二代测序用户会（上海）
+
+PPT在线预览：https://liveshare.seismic.com/i/ByOJL___IyzTuZbuDB6tPfvnb5wdPLUSSIGNIxG13jIwWaemnyQM5NQ6cTQiaos47___mhRZLp33cMifZHHX7BUbYGDhu0yQd58morXbNDNgWPLUSSIGN6AWxVqW8EQUALSIGN

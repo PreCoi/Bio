@@ -13,10 +13,10 @@ NGS00-3011S 50rxn
 ### 【产品组分】
 |Component|NGS00-3011S（50rxn）
 |-|-|
-|ExKubit dsDNA HS分析试剂	 | 125ul
-|ExKubit dsDNA HS稀释缓冲液|	25ul
-|ExKubit dsDNA HS标准品1（0ng/ul）|	500ul
-|ExKubit dsDNA HS标准品2（10ng/ul）|	500ul
+|ExKubit dsDNA HS分析试剂|125ul
+|ExKubit dsDNA HS稀释缓冲液|25ul
+|ExKubit dsDNA HS标准品1（0ng/ul）|500ul
+|ExKubit dsDNA HS标准品2（10ng/ul）|500ul
 - 注意：使用时提前将所有试剂放置于室温；分析试剂低温易凝固，需要完全溶解后再使用。
 ### 【操作步骤】
 - 以Qubit 3.0 荧光仪为例

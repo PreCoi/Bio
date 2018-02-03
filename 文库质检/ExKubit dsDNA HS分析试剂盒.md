@@ -11,7 +11,8 @@ NGS00-3011S 50rxn
 - ExKubit dsDNA HS分析试剂和ExKubit dsDNA HS稀释缓冲液放置4℃或常温保存，长期储存4℃更优；
 - ExKubit dsDNA HS标准品1和ExKubit dsDNA HS标准品2放置4℃或-20℃保存，长期储存-20℃更优。
 ### 【产品组分】
-Component	NGS00-3011S（50rxn）
+|Component |	NGS00-3011S（50rxn）
+|-|-|
 ExKubit dsDNA HS分析试剂	125ul
 ExKubit dsDNA HS稀释缓冲液	25ul
 ExKubit dsDNA HS标准品1（0ng/ul）	500ul

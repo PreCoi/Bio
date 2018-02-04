@@ -1,5 +1,5 @@
 # Illumina Miseq个人型测序系统
-！（Illumina Miseq个人型测序系统）[http://img1.wezhan.cn/content/sitefiles/81869/images/6062812_Miseq_e44ead4a-fc69-48c6-b8fe-684df2be09fc_resize_picture.png](http://img1.wezhan.cn/content/sitefiles/81869/images/6062812_Miseq_e44ead4a-fc69-48c6-b8fe-684df2be09fc_resize_picture.png)
+![](http://img1.wezhan.cn/content/sitefiles/81869/images/6062812_Miseq_e44ead4a-fc69-48c6-b8fe-684df2be09fc_resize_picture.png)
 - 采用illumina边合成边测序技术（SBS），当单个碱基结合DNA链时，通过专利的可逆终止子方法对数百万到数千万个片段进行大规模并行测序。当每个dNTP加入时对荧光标记的终止子成像，随后酶切掉终止子，允许下一个碱基的结合。由于每个测序循环中四种可逆终止子结合的dNTP都存在，所以自然竞争让结合偏差最小化。根据每个循环的信号强度测定检出碱基，与其他技术相比大大降低了原始错误率。
 ## 主要特点：
 ### 1)唯一获得欧洲CE-IVD认证；

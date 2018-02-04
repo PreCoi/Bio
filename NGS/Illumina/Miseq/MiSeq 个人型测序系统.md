@@ -17,6 +17,7 @@
 ### 6)数据可以上传到BaseSpace®云计算中，随时查询、实时分享、安全性高。
 ## MiSeq系统性能参数
 |Read Length|Total Time|Output|Reads Passing Filter|Quality Scores (Q30)
+|-|-|-|-|-|
 |1×36 bp|-4 hours|540-610 Mb|12-15 M|>90%
 |2×25 bp|-5.5 hours|750-850Mb|24-30M|>90%
 |2×75 bp|-24 hours|3.3-3.8 Gb|44-50M|>85%

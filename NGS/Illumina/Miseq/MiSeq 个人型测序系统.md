@@ -38,3 +38,5 @@
 ### 3)RNA测序 (RNA Sequencing)：小RNA测序和RNA-seq
 ### 4)文库质控
 ### 5)调控：ChIP-seq
+
+【资料来源：盘古生物】

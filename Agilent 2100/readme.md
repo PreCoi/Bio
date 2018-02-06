@@ -1,5 +1,9 @@
 # Agilent 2100使用
-
+# Scicome科至达科研医疗器材操作视频系列之《Agilent2100生物分析仪使用教程V1.0》共计30集
+- 科至达关注的视频-科至达上传的视频-爱奇艺
+http://www.iqiyi.com/paopao/u/1440692481/video/
+- 土拨鼠的个人频道 - 视频列表
+http://v.qq.com/vplus/7dfae6d997ad271473240d10b7eca37a/videos
 # Agilent 2100 Bioanalyzer技术原理：
 
 ![1](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUOQysEUBhic3eMs0pHHMYrjTv9TibN6rib5k5ibE9YmAcFa6uFlNiarnjLo4rHr9aQvtjgBnznHvPrJ3zg/640?wx_fmt=png&wxfrom=5&wx_lazy=1)

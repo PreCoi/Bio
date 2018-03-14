@@ -27,9 +27,10 @@ PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司
 | V3V4区 | 338F/806R | 	
 | V3V4区 | 341b4F/806R | 
 | ITS2区 | Link_ITS3_2024F/Link_ITS3_1979R | 52℃， | 500bp
+| ITS2 | ITS2F/ITS3R |  | 
 | NxrB | NxrB169F/NxrB638R |  | 无接头,500bp
 | NxrA | FlnorA（miseq_F1norA_F）/R2norA（miseq_R2norA） |  | 无接头,350bp
 |  | dacr5F/dcr4R |  | 750bp
 |  | niry_q_F/nirk1040 | 50℃，26cyc | 500bp
 | 古菌V4V5区 | 524F/958R |   | 500bp
-| BOA（细菌amoA） |  |  | 
+| BOA（细菌amoA） |  |  | 600bp

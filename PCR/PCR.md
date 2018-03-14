@@ -3,6 +3,15 @@
 
 以稀释后的基因组DNA为模板，使用带Barcode的16S rDNA-V4区特异引物515F(5'-GTTTCGGTGCCAGCMGCCGCGGTAA-3')和806R(5'-GATCAGGGACTACHVGGGTWTCTAAT-3')，并用高效和高保真酶（New England Biolabs公司的Phusion® High-Fidelity PCR Master Mix with GC Buffer）进行PCR，确保扩增效率和准确性。
 
+- 酶标仪标准品稀释
+
+标准品：1000ng/ul=1ng/ml
+
+稀释100倍（990ul+10ul）
+
+
+
+
 - PCR产物的混样和纯化
 
 PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司提供的胶回收试剂盒回收产物。

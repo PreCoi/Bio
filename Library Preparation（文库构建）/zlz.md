@@ -31,4 +31,23 @@
 |Y7-V4 | 6.75 | 246 | 41.57 | 3.48
 |Y7-V6 | 3.70 | 124 | 45.21 | 3.20
 
+每单个样品按1000ng混样，使用Truseq stranded mRNA Sample Preparation Guide；
+
+（1）purify and Fragment mRNA；
+
+（2）synthesizze First strand cDNA；
+
+（3）synthesizze Second strand cDNA；
+
+（4）Adenylate 3' Ends
+
+A Tailing control（1:99）  2.5ul
+
+A Tailing Mix  12.5ul
+
+up and down 10 times
+
+37℃，30min；70℃，5min,4℃，∞；
+
+
 

@@ -41,13 +41,12 @@ Ligation Master于-20℃保存，使用前取出，然后迅速放回。
 ## 1.3 PCR（hands-on 25min，total 55min）
 1.3.1 配制以下体系：
 
-Component	9
-Ligation product	1
-PCR master	10
-Total volume	20
-
-
-
+| Component | Vol./ul | 
+| ------------- |:-------------:| 
+| Ligation product | 	9
+| primer | 1
+| PCR master | 	10
+| Total volume | 	20
 1.3.2 PCR（98℃30s；98℃10s；65℃30s；72℃30s，8个循环，72℃5min）。
 
 1.3.3 加入20ul SRPI beads，吹打15次/板振动，室温孵育5min。

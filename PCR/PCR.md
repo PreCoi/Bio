@@ -32,6 +32,6 @@ PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司
 | NxrA | FlnorA（miseq_F1norA_F）/R2norA（miseq_R2norA） |  | 无接头,350bp
 |  | dacr5F/dcr4R |  | 750bp
 |  | niry_q_F/nirk1040 | 50℃，26cyc | 500bp
-| 古菌V4V5区 | 524F/958R |   | 500bp
+| 古菌V4V5区 | 524F/958R | 2ul,65℃，30cyc;  | 500bp
 | BOA（细菌amoA） |  |  | 
 | 细菌功能基因 | 63F/16S4R |  1ul，95℃，20min；95℃，40s；64℃，45s；72℃，30s；72℃，7min；4℃，∞；40cyc； | 314bp

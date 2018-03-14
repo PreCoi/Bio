@@ -29,3 +29,4 @@ PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司
 | NxrB | NxrB169F/NxrB638R |  | 无接头,500bp
 | NxrA | FlnorA（miseq_F1norA_F）/R2norA（miseq_R2norA） |  | 无接头,350bp
 |  | dacr5F/dcr4R |  | 750bp
+|  | niry_q_F/nirk1040 | 50℃，26cyc | 500bp

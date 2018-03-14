@@ -1,6 +1,5 @@
 # DNA library Prep for NIPT（illumina system）
 
-DNA library Prep for NIPT（illumina system）
 1.0 Reagent Preparation
 SRPI beads，BB使用前恢复至室温。
 ER master，adapter，primer，PCR master冰上融化。

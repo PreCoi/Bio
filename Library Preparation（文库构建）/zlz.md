@@ -55,7 +55,7 @@ up and down 10 times
 
 （6）Enrich DNA Fragments
 
-（7）片段选择，120V，60min,2%琼脂糖，胶回收，检测；
+（7）片段选择，120V，60min,2%琼脂糖，胶回收，检测，100 
 
 （8）定量
 

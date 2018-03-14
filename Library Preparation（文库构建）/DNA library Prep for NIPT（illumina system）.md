@@ -8,7 +8,7 @@ ER master，adapter，primer，PCR master冰上融化。
 
 Ligation Master于-20℃保存，使用前取出，然后迅速放回。
 
-1.1 DNA Setup&End Repair（hands-on 30min，total 65min）
+## 1.1 DNA Setup&End Repair（hands-on 30min，total 65min）
 
 1.1.1 取cfDNA 15ul。
 

@@ -33,6 +33,8 @@
 
 每单个样品按1000ng混样，使用Truseq stranded mRNA Sample Preparation Guide；
 
+等量混样；
+
 （1）purify and Fragment mRNA；
 
 （2）synthesizze First strand cDNA；
@@ -48,6 +50,14 @@ A Tailing Mix  12.5ul
 up and down 10 times
 
 37℃，30min；70℃，5min,4℃，∞；
+
+（5）Ligate Adapter
+
+（6）Enrich DNA Fragments
+
+（7）片段选择，120V，60min,2%琼脂糖，胶回收，检测；
+
+（8）定量
 
 
 

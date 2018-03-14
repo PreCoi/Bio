@@ -68,6 +68,7 @@ R-Primer        0.5ul
 
 维普资讯中文期刊服务平台- 利用微滴数字PCR分析转基因生物外源基因拷贝数
 http://61.178.127.9:8080/rewriter/WEIPU/http/0Z9Z9Z9040.74/article/detail.aspx?id=662816398
+
 http://www.jabiotech.org
 
 

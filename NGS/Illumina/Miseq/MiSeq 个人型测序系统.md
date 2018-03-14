@@ -40,3 +40,12 @@
 ### 5)调控：ChIP-seq
 
 【资料来源：盘古生物】
+
+Miseq流入测试
+
+最后一个---system cheek------conduct volume test，更换wash tray。
+
+
+
+
+

@@ -32,3 +32,4 @@ PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司
 |  | dacr5F/dcr4R |  | 750bp
 |  | niry_q_F/nirk1040 | 50℃，26cyc | 500bp
 | 古菌V4V5区 | 524F/958R |   | 500bp
+| BOA（细菌amoA） |  |  | 

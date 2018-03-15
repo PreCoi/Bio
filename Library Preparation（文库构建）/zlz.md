@@ -59,5 +59,24 @@ up and down 10 times
 
 （8）定量
 
+============================================================
+
+转录组测序（NEB建库）
+
+（1）mRNA Isolation,Fragmentation and Priming starting with total RNA；
+
+（2）First strand cDNA synthesis；
+
+（3）perform second strand cDNA synthesis；
+
+store at -20℃
+
+
+（1）end  repair/dA-tail of cDNA Library
+
+（2）Adapter Ligation
+
+（3）PCR Library enrichment
+
 
 

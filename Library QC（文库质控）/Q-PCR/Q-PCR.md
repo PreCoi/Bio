@@ -106,7 +106,7 @@ http://www.jabiotech.org
 
 3.用Library Dilution Buffer对上一步稀释的文库稀释40倍（78ul Library Dilution Buffer+2ul上一步稀释的文库），振荡混匀，离心；
 
-**文库稀释2000倍；**
+**多样性文库稀释2000倍，基因组文库稀释4000倍；**
 
 4.标准品（Illumine Phix v3）梯度稀释；
 

@@ -75,4 +75,112 @@ http://61.178.127.9:8080/rewriter/WEIPU/http/0Z9Z9Z9040.74/article/detail.aspx?i
 http://www.jabiotech.org
 
 
+===============================================================================================
+5.1 文库的浓度检测
+Library Dillution Buffer
+Vazyme Code：NQ106 50ml
+L/N 7E142D7 Exp：2018.11.24
+Store at -20℃
+
+Illumine Phix v3
+REF：15017666 LOT：20175333
+2018.05.20
+Label PN：15017667.B
+
+VAHTS Library Quantification Kit for Illumina（High ROX Premixed）
+Vazyme Code：NQ104 5ml 500rxn
+L/N：7E142D7 Exp：2018.11.24
+Store at -20℃避光
+
+5.1.1 实时荧光定量PCR（qPCR）定量
+1.根据文库上机表在-20℃冰箱找到上机文库，振荡混匀，离心；
+2.用Library Dilution Buffer对文库稀释50倍（98ul Library Dilution Buffer+2ul文库），振荡混匀，离心；
+3.用Library Dilution Buffer对上一步稀释的文库稀释40倍（78ul Library Dilution Buffer+2ul上一步稀释的文库），振荡混匀，离心；
+*文库稀释2000倍；
+4.标准品（Illumine Phix v3）梯度稀释；
+（1）9ul稀释缓冲液（Library Dilution Buffer）+1ul标准品（Illumine Phix v3），振荡混匀，离心得到标准品I；
+（2）18ul稀释缓冲液（Library Dilution Buffer）+2ul标准品I，振荡混匀，离心得到标准品CK1；
+（3）18ul稀释缓冲液（Library Dilution Buffer）+2ul标准品CK1，振荡混匀，离心得到标准品CK2；
+（4）18ul稀释缓冲液（Library Dilution Buffer）+2ul标准品CK2，振荡混匀，离心得到标准品CK3；
+（5）18ul稀释缓冲液（Library Dilution Buffer）+2ul标准品CK3，振荡混匀，离心得到标准品CK4；
+（6）18ul稀释缓冲液（Library Dilution Buffer）+2ul标准品CK4，振荡混匀，离心得到标准品CK5；
+5.用VAHTS Library Quantification Kit for Illumina（High ROX Premixed）配制qPCR Mix；
+VAHTS SYBR qPCR Master Mix（Without ROX，Low or High ROX Premixed）	10.0ul
+qPCR Primer Mix	2.0ul
+DNA Standard 1-6或稀释后的文库或灭菌蒸馏水	4.0ul
+灭菌蒸馏水	4.0ul
+总和	20.0ul
+
+
+6.取qPCR板，分装16ul qPCR Mix至孔中；
+A1A2孔加4ul标准品CK1；
+A3A4孔加4ul标准品CK2；
+A5A6孔加4ul标准品CK3；
+A7A8孔加4ul标准品CK4；
+A9A10孔加4ul标准品CK5；
+A11孔加入4ul标准品CK1；
+A12孔加入4ul Library Dilution Buffer；
+剩余的孔加入4ul稀释好的文库，B1C1孔为一组重复，依次类推；
+7.戴上PE手套盖上封口膜，放在振荡器上稍微振荡，离心，放入荧光定量仪器里面；
+8.设置参数；
+（1）打开桌面上的StepOne Software v2.3快捷方式；
+（2）弹出Login界面，User Name填写Guest，点击OK；
+ 
+（3）弹出主界面；
+ 
+（4）选择Set Up菜单下Advanced Setup，创建新的反应程序，默认进入Experiment Properties子菜单；
+How do you want to identify this experiment？
+Experiment Name填写文件名；
+Which instrument are you using to run the experiment?
+选择StepOnePlusTM Instrument（96 Wells）
+What type of experiment do you want to set up?
+选择Quantitation-Standard Curve
+Which reagents do you want to use to detect the target sequence?
+选择SYBR® Green Reagents
+去掉Include Melt Curve前面的勾；
+Which ramp speed do you want to use in the instrument run？
+选择Standard（~2 hours to complete a run）
+ 
+ 
+
+进入Plate Setup子菜单；
+默认在Define Targets and Samples标签里面；
+Define Samples-Add New Sample添加文库名列表；
+切换到Assign Targents and Samples-View Plate Layout标签，
+添加样本加入孔的位置，A1-A10孔标记为S（标准曲线），A11孔标记为U（阳性对照），A12孔标记为N（阴性对照），剩余加样孔孔标记为U（未知）；
+设置标准曲线：
+选择Define and Set Up Standards弹出窗口；
+#of Points：5
+#of Replicates：2
+Starting Quantifity：1000000
+Serial Factor：1:10
+
+Select and arrange wells for the standards
+Use Wells：选择Let Me Select Wells，选择A1-A10孔-Apply-Yes-Close；
+
+进入Run Method子菜单，默认在Graphical View标签下；
+95.0℃ 05:00
+95.0℃ 00:30
+60.0℃ 00:45
+Number of Cycles：35
+ 
+确认无误后，点击START RUN开始运行（耗时60min）；
+ 
+运行结束后查看标准曲线的R2值及阳性对照的值是否在可用范围内；
+合格后导出表格，选择Export-Browse（选择路径）-Start Export-Close Export-Tool；
+ 
+ 
+打开导出的表格，Quantity Mean后面插入一列，计算公式=Quantity Mean/10000*2；
+删除重复项，所得浓度为文库摩尔浓度，同时标记文库名称对应顺序。
+
+5.1.2 Qubit荧光定量计定量
+5.1.3 TBS-380微型荧光计定量
+5.2 文库的片段大小检测
+
+
+
+
+
+
+
 

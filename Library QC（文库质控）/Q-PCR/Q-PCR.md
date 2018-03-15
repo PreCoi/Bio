@@ -134,7 +134,7 @@ http://www.jabiotech.org
 
 6.取qPCR板，分装16ul qPCR Mix至孔中；
 
-A1A2孔加4ul标准品CK1；
+A1A2孔加4ul标准品CK1；（标准曲线）
 
 A3A4孔加4ul标准品CK2；
 
@@ -144,9 +144,9 @@ A7A8孔加4ul标准品CK4；
 
 A9A10孔加4ul标准品CK5；
 
-A11孔加入4ul标准品CK1；
+A11孔加入4ul标准品CK1；（阳性对照）
 
-A12孔加入4ul Library Dilution Buffer；
+A12孔加入4ul Library Dilution Buffer；（阴性对照）
 
 剩余的孔加入4ul稀释好的文库，B1C1孔为一组重复，依次类推；
 

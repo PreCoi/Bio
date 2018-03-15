@@ -78,20 +78,26 @@ http://www.jabiotech.org
 ===============================================================================================
 ## 5.1 文库的浓度检测
 
-Library Dillution Buffer
-Vazyme Code：NQ106 50ml
-L/N 7E142D7 Exp：2018.11.24
-Store at -20℃
+|  |
+| ------------- |
+| Library Dillution Buffer
+| Vazyme Code：NQ106 50ml
+| L/N 7E142D7 Exp：2018.11.24
+| Store at -20℃
 
-Illumine Phix v3
-REF：15017666 LOT：20175333
-2018.05.20
-Label PN：15017667.B
+|  |
+| ------------- | 
+| Illumine Phix v3
+| REF：15017666 LOT：20175333
+| 2018.05.20
+| Label PN：15017667.B
 
-VAHTS Library Quantification Kit for Illumina（High ROX Premixed）
-Vazyme Code：NQ104 5ml 500rxn
-L/N：7E142D7 Exp：2018.11.24
-Store at -20℃避光
+|  |
+| ------------- |
+| VAHTS Library Quantification Kit for Illumina（High ROX Premixed）
+| Vazyme Code：NQ104 5ml 500rxn
+| L/N：7E142D7 Exp：2018.11.24
+| Store at -20℃避光
 
 ### 5.1.1 实时荧光定量PCR（qPCR）定量
 1.根据文库上机表在-20℃冰箱找到上机文库，振荡混匀，离心；
@@ -118,15 +124,13 @@ Store at -20℃避光
 
 5.用VAHTS Library Quantification Kit for Illumina（High ROX Premixed）配制qPCR Mix；
 
-VAHTS SYBR qPCR Master Mix（Without ROX，Low or High ROX Premixed）	10.0ul
-
-qPCR Primer Mix	2.0ul
-
-DNA Standard 1-6或稀释后的文库或灭菌蒸馏水	4.0ul
-
-灭菌蒸馏水	4.0ul
-
-总和	20.0ul
+|  |  | 
+| ------------- |:-------------:| 
+| VAHTS SYBR qPCR Master Mix（Without ROX，Low or High ROX Premixed） | 10.0ul
+| qPCR Primer Mix | 2.0ul
+| DNA Standard 1-6或稀释后的文库或灭菌蒸馏水 | 4.0ul
+| 灭菌蒸馏水 | 4.0ul
+| 总和 | 20.0ul
 
 6.取qPCR板，分装16ul qPCR Mix至孔中；
 

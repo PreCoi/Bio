@@ -52,6 +52,10 @@ PCR产物回收
 
 定量混样
 
-打断（0.3mpa，4min）
+DNA片段化，打断（0.3mpa，4min）
+
+回收定量（1ug DNA/10ul beads）
+
+
 
 

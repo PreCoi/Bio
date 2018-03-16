@@ -10,9 +10,9 @@ Ligation Master于-20℃保存，使用前取出，然后迅速放回。
 
 ## 1.1 DNA Setup&End Repair（hands-on 30min，total 65min）
 
-1.1.1 取cfDNA 15ul。
+1.1.1 取cfDNA 15ul。【补足至30ul】
 
-1.1.2 加入27ul SPRI beads，吹打15次/板振动，室温孵育5min；
+1.1.2 加入27ul SPRI beads，吹打15次/板振动，室温孵育5min；【54ul，1.8X】
 
 1.1.3 磁力分离至溶液澄清后，去上清，不要触碰beads。
 

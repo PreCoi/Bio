@@ -22,15 +22,17 @@ Ligation Master于-20℃保存，使用前取出，然后迅速放回。
 
 1.1.6 尽可能去除所有残留ethanol，敞口室温挥发5min。
 
-1.1.7 加入20ul ER master，吹打15次/板振动，20℃反应20min，72℃反应15min。
+1.1.7 加入20ul ER master，吹打15次/板振动，20℃反应20min，72℃反应15min。【40ul】
 
-1.1.8 加入40ul BB，吹打15次/板振动，室温孵育5min。
+1.1.8 加入40ul BB，吹打15次/板振动，室温孵育5min。【80ul】
 
 **重复1.1.3-1.1.6**
 ## 1.2 Adapter Ligation（hands-on 15min，total 30min）
-1.2.1 加入2.5ul adapter，2.5ul Ligation Master，吹打15次/板振动，25℃反应15min。
+1.2.1 加入2.5ul adapter，2.5ul Ligation Master，吹打15次/板振动，25℃反应15min。【3ul】
 
-1.2.2 在同一管/板中加入8ul BB，吹打15次/板振动，室温孵育5min。
+**Ligation Master货号：#M0367S lot：0191509**
+
+1.2.2 在同一管/板中加入8ul BB，吹打15次/板振动，室温孵育5min。【8.4ul】
 
 **重复1.1.3-1.1.6**
 

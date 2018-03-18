@@ -5,6 +5,8 @@ GPP_Pipetting_Calibration_and_Technique_EN：https://www.mt.com/dam/non-indexed/
  移液器使用培训教程_百度文库
 https://wenku.baidu.com/view/bc03a38a81c758f5f71f6733.html
  
+https://wenku.baidu.com/view/55b53bb058fb770bf68a5595.html?sxts=1521368020631
+ 
  ## 简介
  
 移液器是实验室常用的工具 ，您的移液数据质量取决于移液器的性能。 您能确认移液器提供准确的移液量吗？

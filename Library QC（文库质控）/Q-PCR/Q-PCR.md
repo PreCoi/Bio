@@ -99,6 +99,8 @@ http://www.jabiotech.org
 | L/N：7E142D7 Exp：2018.11.24
 | Store at -20℃避光
 
+VAHTS Library Quantification Kit for Illumina®：http://www.vazyme.com/downloadRepository/989f605d-598e-4e2a-b40c-eb5da213516e.pdf
+
 ### 5.1.1 实时荧光定量PCR（qPCR）定量
 1.根据文库上机表在-20℃冰箱找到上机文库，振荡混匀，离心；
 

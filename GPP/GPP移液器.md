@@ -7,6 +7,8 @@ https://wenku.baidu.com/view/bc03a38a81c758f5f71f6733.html
  
 https://wenku.baidu.com/view/55b53bb058fb770bf68a5595.html?sxts=1521368020631
  
+利用良好移液技法获取更佳结果：https://img03.en25.com/Web/MettlerToledoGNF/%7B67c81a0b-d1c2-4dd6-a2d4-7a93877b9d4c%7D_12360044_Rainin_Get_Better_Result_Inter_CN.pdf
+ 
  ## 简介
  
 移液器是实验室常用的工具 ，您的移液数据质量取决于移液器的性能。 您能确认移液器提供准确的移液量吗？

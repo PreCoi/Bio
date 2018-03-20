@@ -45,6 +45,11 @@ Miseq流入测试
 
 最后一个---system cheek------conduct volume test，更换wash tray。
 
+短片段=【】万X样本个数X500（测序长度）X2
+
+V3V4=【】万X600（测序长度）X3
+
+V4V5/ITS1=【】万X500（测序长度）X2.5
 
 
 

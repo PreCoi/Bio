@@ -1,6 +1,9 @@
 # Q-PCR
 Real-time PCR实验步骤：（实验时用低吸附性枪头）
 
+【图文】qPCR讲座_百度文库
+https://wenku.baidu.com/view/1a2f56aa68dc5022aaea998fcc22bcd126ff42be.html
+
 1、实验准备：
 
 试剂（SYBR Green 1试剂盒）

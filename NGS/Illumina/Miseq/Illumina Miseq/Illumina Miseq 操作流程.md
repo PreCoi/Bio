@@ -4,3 +4,9 @@
 &emsp;&emsp;Miseq测序仪的测序原理与Hiseq相同，也是采用SBS技术和3’端可逆屏蔽终结子技术。与高通量测序仪Hiseq不同的是，Miseq簇生成过程直接在Miseq测序仪上进行。Miseq测序芯片（flow cell）只有1个泳道（lane），根据数据产出和图像采集tile数不同，分为不同的类型，最多可产生约15Gb数据。
 ### 2、试剂
 &emsp;&emsp;Miseq reagent kit；Illumina PhiX Control；Stock 1.0 mol/L NaOH；Tris-HCl 10mmol/L；pH 8.5含0.1% Tween 20。
+### 3、设备
+&emsp;&emsp;Illumina Miseq测序仪；台式离心机（Eppendorf5424）；涡旋振荡器（Genie 2）；加样器和枪头；250ml；50ml；15ml加样管。
+### 4、上机文库的质量检验
+&emsp;&emsp;仪器：实时荧光定量PCR仪，Agilent 2100 Bioanalyzer。
+&emsp;&emsp;质检内容：检验文库浓度与插入片段的大小。
+&emsp;&emsp;质检标准：文库终浓度应不小于2nmol/L，体积不小于10ul。文库插入DNA片段大小为预期大小，且没有接头盒引物二聚体。

@@ -8,5 +8,7 @@
 &emsp;&emsp;Illumina Miseq测序仪；台式离心机（Eppendorf5424）；涡旋振荡器（Genie 2）；加样器和枪头；250ml；50ml；15ml加样管。
 ### 4、上机文库的质量检验
 &emsp;&emsp;仪器：实时荧光定量PCR仪，Agilent 2100 Bioanalyzer。
+
 &emsp;&emsp;质检内容：检验文库浓度与插入片段的大小。
+
 &emsp;&emsp;质检标准：文库终浓度应不小于2nmol/L，体积不小于10ul。文库插入DNA片段大小为预期大小，且没有接头盒引物二聚体。

@@ -58,5 +58,45 @@
 ### 3、标准样品 PhiX 的稀释和变性
 &emsp;&emsp;Illumina 选用 PhiX 病毒的基因组作为测序对照。PhiX 病毒具有基因组小（能够快速组装并估算错误率）、碱基平衡性好（约45% GC 和55% AT）及DNA 参考序列完整等优点。因此，利用PhiX病毒构建的碱基平衡性极好的对照文库，有利于更好地完成碱基不平衡和序列多样性差的文库测序。Illumina PhiX 对照是已经构建好的浓度为10 nmol/L 的 DNA 文库。将10 nmol/L PhiX DNA 文库变性稀释至12.5 pmol/L 上机，芯片上的簇密度可以达到1000～1200 K/mm2（参考illumina.com资料）。
 
+1）稀释 PhiX 标样为4 nmol/L，混匀，离心。
+
+成分	体积（ul）
+PhiX 文库（10 nmol/L）	2
+TrisHCl （10 mmol/L，pH 8.5，含0.1% Tween 20）	3
+
+
+2）4 nmol/L PhiX 文库的变性。
+
+a）4 nmol/L PhiX 文库中加入 NaOH 变性，使模板浓度变为2 nmol/L。
+
+
+成分	体积（ul）
+PhiX 文库（4 nmol/L）	5
+0.2 mol/L NaOH	5
+
+b）涡旋混匀，以280 g 离心1 min。
+c）室温静置5 min，使PhiX 标样模板解离为单链。
+d）转移10 ul 变性模板至990 ul 预冷的HT1缓冲液（Hybridization Buffer，在试剂盒的Miseq reagent kit中）中，这时模板的浓度为20 pmol/L。20 pmol/L 的模板可以在-25～-15℃保存3周，会导致簇密度降低。
+3）PhiX 对照稀释。
+a）将20 pmol/L PhiX 文库稀释至12.5 pmol/L。
+
+成分	体积（ul）
+PhiX 文库（20 pmol/L）	375
+预冷的HT1缓冲液	225
+
+b）涡旋混匀，以280 g 离心1 min。
+c）将变性后的 PhiX 标样置于冰上待用。
+
+4、测序模板中加入标准样品 PhiX
+
+Illumina 建议普通文库 PhiX 对照上样量为1%，多态性低的文库 PhiX 对照上样量为5%以上。根据实际需要按下表所示比例混合变性后的 DNA 模板和 PhiX 标样，后将离心管置于冰上待用，并在测序实验记录单上记录样品的位置和浓度。
+
+
+PhiX 标样所占比例（%）	1	5
+变性后的DNA 模板体积（ul）	594	570
+需要加的 PhiX 标样体积（ul）	6	30
+
+
+
 
 

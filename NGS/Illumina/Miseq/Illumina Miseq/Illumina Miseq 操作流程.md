@@ -37,7 +37,7 @@
 
 3）室温静置5 min，使文库解离为单链。
 
-4）转移10 ul 变性模板至990 ul 预冷的HT1缓冲液（Hybridization Buffer，在试剂盒的Miseq reagent kit中）中，混匀，此时溶液中文库DNA浓度为20 pmol/L，NaOH浓度为1 mmol/L。
+4）转移10 ul 变性模板至990 ul 预冷的HT1缓冲液（Hybridization Buffer，在试剂盒的Miseq reagent kit中）【5 ml 的离心管，杂交缓冲液，储存温度：-15℃～-25℃。】中，混匀，此时溶液中文库DNA浓度为20 pmol/L，NaOH浓度为1 mmol/L。
 
 5）变性后的模板放置于冰上，待用。
 #### （2）稀释变性后的文库模板

@@ -1,6 +1,6 @@
 # 二、cBot 仪器操作过程
 ## 1、试剂盒
-Illumina TruSeq PE Cluster Generation Kit V3（或V4）-HS（货号：PE-401-3001或PE-401-4001），包含以下成分。
+&emsp;&emsp;Illumina TruSeq PE Cluster Generation Kit V3（或V4）-HS（货号：PE-401-3001或PE-401-4001），包含以下成分。
 - Box 1，PE cluster kit reagents（-20℃）：
 One 96-well cBot single-read cluster generation reagent plate
 HT1（Hybridization Buffer）

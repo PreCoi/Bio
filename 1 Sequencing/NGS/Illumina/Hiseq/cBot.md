@@ -2,15 +2,21 @@
 ## 1、试剂盒
 &emsp;&emsp;Illumina TruSeq PE Cluster Generation Kit V3（或V4）-HS（货号：PE-401-3001或PE-401-4001），包含以下成分。
 - Box 1，PE cluster kit reagents（-20℃）：
+
 One 96-well cBot single-read cluster generation reagent plate
+
 HT1（Hybridization Buffer）
+
 - Box 2，multiplexing reagents（-20℃保存）：
+
 HP3（2 mol/L NaOH for denaturing DNA）
 
 HT2（Wash Buffer）
 
 HP8（Index Sequencing Primer）
+
 - 其他组分：
+
 Hiseq V3（或V4）PE flow cell（in orange lid 50 ml tube）（4℃保存）
 
 cBot Manifold for Hiseq 室温保存

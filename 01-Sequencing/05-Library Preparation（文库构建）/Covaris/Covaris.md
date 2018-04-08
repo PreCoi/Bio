@@ -4,7 +4,9 @@
 ## 仪器操作：
 ### 1、水浴设置
 &emsp;&emsp;水浴刻度表，左侧“FILL”刻度为加水刻度，右侧“RUN”刻度为运行刻度。将双蒸水或去离子水加至左侧12-13（10-15之间）左右。当水槽准确放置，并缓慢放下传感器后，水位会到达右侧“RUN”相应刻度（10-15之间）。
- !()[https://github.com/PreCoi/Bio/blob/master/01-Sequencing/05-Library%20Preparation%EF%BC%88%E6%96%87%E5%BA%93%E6%9E%84%E5%BB%BA%EF%BC%89/Covaris/Covaris-%E6%B0%B4%E6%B5%B4%E5%88%BB%E5%BA%A6%E8%A1%A8.png]
+
+![1](https://github.com/PreCoi/Bio/blob/master/01-Sequencing/05-Library%20Preparation%EF%BC%88%E6%96%87%E5%BA%93%E6%9E%84%E5%BB%BA%EF%BC%89/Covaris/Covaris-%E6%B0%B4%E6%B5%B4%E5%88%BB%E5%BA%A6%E8%A1%A8.png)
+
 ### 2、开机
 &emsp;&emsp;先开循环冷却系统，打开仪器主机，最后开启电脑和软件。
 ### 3、排气

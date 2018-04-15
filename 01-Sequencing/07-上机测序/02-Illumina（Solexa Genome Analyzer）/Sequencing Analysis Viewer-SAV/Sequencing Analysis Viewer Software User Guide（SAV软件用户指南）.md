@@ -11,7 +11,7 @@ October 2014（2014年10月）
 ## Revision History（修订记录）
 
 | Part #（部分） | Revision（调整） | Date（日期） | Description of Change（变更描述） |
-| ------------- |:-------------:|:-------------:|:-------------:|  
+| ------------- |:-------------:|:-------------:|-------------|  
 | 15020619 | F | October 2014（2014年10月） | Added support for HiSeq X and InterOp files for RTA 1.1x and 2.x.（为RTA 1.1x和2.x添加了对HiSeq X和InterOp文件的支持。）
 | 15020619 | E | January 2014（2014年1月） | Added support for NextSeq, and descriptions of InterOp files.（增加了对NextSeq的支持，以及InterOp文件的描述。）
 | 15020619 | D | January 2013（2013年1月） | Added figure of in-line controls in a successful TruSeq DNA PCR-Free run（在成功的TruSeq DNA PCR-Free运行中增加了在线对照图）

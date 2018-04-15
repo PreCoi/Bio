@@ -1,6 +1,13 @@
 # Sequencing Analysis Viewer Software User Guide（SAV软件用户指南）
 
 FOR RESEARCH USE ONLY（仅供研究使用）
+
+ILLUMINA PROPRIETARY（ILLUMINA所有）
+
+Part # 15020619 Rev F（部件号15020619修订版F）
+
+October 2014（2014年10月）
+
 ## Revision History（修订记录）
 ## Introduction（介绍）
 ## Setting Up Sequencing Analysis Viewer Software（设置SAV软件）

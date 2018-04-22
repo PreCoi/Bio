@@ -18,7 +18,7 @@ Version 1.1
 ## 3、步骤
 ### 3.1、裂解
 #### 3.1.1、吸取20μl QIAGEN Protease or proteinase K i到1.5ml离心管底部。
-#### 3.1.2、加入200μl样本到离心管。使用 200μl全血,血浆,血清,白细胞,或者体液,或者5×106淋巴细胞在200μl PBS。假如样本体积小于200ul,加入适量的PBS。
+#### 3.1.2、加入200μl样本到离心管。使用 200μl全血,血浆,血清,白细胞,或者体液,或者5×10^6淋巴细胞在200μl PBS。假如样本体积小于200ul,加入适量的PBS。
 #### 3.1.3、加入200μl Buffer AL到样本，漩涡震荡混匀15S使其充分混匀。假如样本体积大于200ul，适当地增加QIAGEN Protease or proteinase K和Buffer AL的量
 注意：不要直接把QIAGEN Protease or proteinase K加入到Buffer AL.
 #### 3.1.4、56℃金属浴10min。在56℃裂解10min后，DNA量达到最大值。延长裂解时间对DNA的总量和质量没有影响。

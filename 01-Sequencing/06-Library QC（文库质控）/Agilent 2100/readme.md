@@ -8,7 +8,7 @@ http://v.qq.com/vplus/7dfae6d997ad271473240d10b7eca37a/videos
 
 ![1](http://mmbiz.qpic.cn/mmbiz_png/d4n6H8VhWUOQysEUBhic3eMs0pHHMYrjTv9TibN6rib5k5ibE9YmAcFa6uFlNiarnjLo4rHr9aQvtjgBnznHvPrJ3zg/640?wx_fmt=png&wxfrom=5&wx_lazy=1)
 
-![第2代测序技术流程](https://gitee.com/PreCoi/Bio/blob/master/1%20SEQUENCING/%E7%AC%AC2%E4%BB%A3%E6%B5%8B%E5%BA%8F%E6%8A%80%E6%9C%AF%E6%B5%81%E7%A8%8B.png)
+![第2代测序技术流程](https://gitee.com/PreCoi/Bio/raw/master/1%20SEQUENCING/%E7%AC%AC2%E4%BB%A3%E6%B5%8B%E5%BA%8F%E6%8A%80%E6%9C%AF%E6%B5%81%E7%A8%8B.png)
 
 - Agilent 2100 Bioanalyzer是基于芯片实验室（Lab on a Chip）技术的核酸分析，通过微流体技术对样品进行分离，当芯片加入电压时，样品便在芯片上的显微蚀刻管道中进行毛细血管电泳，在样品流动过程中，不同RNA片段根据大小被分离，这样可以对RNA的完整性［RIN (RNA Integrity Number)，十分制］、纯度或降解程度进行精确的、数字化的评估。
 - 目前，该RIN值参数已经成为RNA研究领域内RNA评估的黄金标准了。

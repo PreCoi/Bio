@@ -45,7 +45,7 @@ PCR产物用2%的琼脂糖凝胶进行电泳检测，目的条带用Qiagen公司
 | FnirK | Fnirk F3/Fnirk-R2 | 条件同管铭，2ul，58℃,35cyc； | 弥散条带		
 | ITS1区 | ITS5F/ITS2R | 2ul，56℃，28cyc；		
 | V4V5区 | 515F/907R | 2ul，50℃，26cyc；		
-| 古菌V5V6区 | 787F/1059R | 1ul，50℃，26cyc； | 无接头
+| 古菌V5V6区 | 787F/1059R | 1ul，50℃，26cyc； | 无接头280 bp
 | V3V4区 | 338F/806R | 1ul，50℃，26cyc；	
 | V3V4区 | 341b4F/806R | 
 | ITS2区 | Link_ITS3_2024F/Link_ITS3_1979R | 52℃， | 500bp
